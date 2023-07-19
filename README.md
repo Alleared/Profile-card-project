@@ -1,2 +1,1 @@
-# Profile-card-project
-Challenge from Frontend mentor - Profile Card coded by Alleared using HTML and CSS.
+Challenge from FrontendMentor. The background was the most difficult thing in this project for me. I couldn't figure out a better way to do it.
